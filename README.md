@@ -8,7 +8,6 @@ Nikto web server scanner  - https://cirt.net/Nikto2
 Full documentation - https://github.com/sullo/nikto/wiki
 
 Run normally:
-
 ~~~
 git clone https://github.com/sullo/nikto
 # Main script is in program/
