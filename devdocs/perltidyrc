@@ -1,9 +1,1 @@
-# perltidy options for nikto development
-# copy to ~/.perltidyrc
--lp
--vt=2
--pt=2
--cti=3
--bar
--nolq
--l=100
+
